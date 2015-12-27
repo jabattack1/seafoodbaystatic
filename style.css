@@ -36,7 +36,7 @@ body {
     padding: 0;
   background: url() no-repeat;
   /*background-color:rgba(0,0,0,0.5);*/
-  background-image: url("http://i1301.photobucket.com/albums/ag119/jabattack1/Ocean%20_zpsyvclvweg.gif");
+  background-image: url("http://i1301.photobucket.com/albums/ag119/jabattack1/Ocean%20_zpsyvclvweg.gifs");
   position: relative;
   background-size: 100% 100%;
   background-position: center;
@@ -702,7 +702,18 @@ h1 {
     
 }
 
+tr {
+	background-color:rgba(0,0,0,0.5);
+	
+	/*border:0px solid #ffffff;*/
+	text-align:left;
 
+	font-size:13px;
+	font-family:'Arvo', Georgia, Times, serif;
+	/*font-weight:bold;*/
+	color:#ffffff;
+	margin:0px;
+}
 
 li {
   display: inline;
@@ -846,16 +857,7 @@ button {
 	
 }
 .menu tr:first-child td{
-	background-color:rgba(0,0,0,0.5);
-	
-	/*border:0px solid #ffffff;*/
-	text-align:left;
-	
-	font-size:13px;
-	font-family:'Arvo', Georgia, Times, serif;
-	/*font-weight:bold;*/
-	color:#ffffff;
-	margin:10px;
+
 }
 .menu tr:first-child:hover td{
 
