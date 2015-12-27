@@ -702,18 +702,7 @@ h1 {
     
 }
 
-tr {
-	background-color:rgba(0,0,0,0.5);
-	
-	/*border:0px solid #ffffff;*/
-	text-align:left;
 
-	font-size:13px;
-	font-family:'Arvo', Georgia, Times, serif;
-	/*font-weight:bold;*/
-	color:#ffffff;
-	margin:0px;
-}
 
 li {
   display: inline;
@@ -815,7 +804,9 @@ button {
 	margin:0px;
 	padding:0px;
 
-}.menu tr:last-child td:last-child {
+
+}
+.menu tr:last-child td:last-child {
 
 	-moz-border-radius-bottomright:0px;
 	-webkit-border-bottom-right-radius:0px;
@@ -856,7 +847,17 @@ button {
 }.menu tr:last-child td:last-child{
 	
 }
-.menu tr:first-child td{
+.menu tr td{
+	background-color:rgba(0,0,0,0.5);
+	
+	/*border:0px solid #ffffff;*/
+	text-align:left;
+	
+	font-size:13px;
+	font-family:'Arvo', Georgia, Times, serif;
+	/*font-weight:bold;*/
+	color:#ffffff;
+	margin:0px;
 
 }
 .menu tr:first-child:hover td{
