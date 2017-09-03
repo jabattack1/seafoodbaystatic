@@ -35,7 +35,7 @@ body {
     margin: 0 auto;
     padding: 0;
   background: url() no-repeat;
-  /*background-color:rgba(0,0,0,0.5);*/
+  background-color:blue;
   background-image: url("https://i.imgur.com/lwnS1KM.gifv");
 
   position: relative;
