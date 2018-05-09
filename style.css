@@ -500,7 +500,7 @@ body {
 	font-family: 'Arvo', Georgia, Times, serif;
 	font-size: .8em;
 	color: #FFFFFF;
-	margin-left: 169px;
+	margin-left: 269px;
 	margin-top: 112px;
 	position: absolute;
 	background-color: #000000;
@@ -741,7 +741,7 @@ button {
 
 
 .menu {
-	margin:100px;padding:0px;
+	margin:0px;padding:0px;
 	width:100%;
 	
 	
