@@ -492,7 +492,7 @@ body {
 	display:block;
     float:left;
     padding:0;
-    margin: 100;
+    margin: 0;
 }
 
 #about {
@@ -741,7 +741,7 @@ button {
 
 
 .menu {
-	margin:0px;padding:0px;
+	margin:100px;padding:0px;
 	width:100%;
 	
 	
