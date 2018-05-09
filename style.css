@@ -505,7 +505,7 @@ body {
 	position: absolute;
 	background-color: #000000;
 	width: 1040px;
-	height: 403px;
+	height: 100%;
 	/*border-style: solid;*/
     background-color:rgba(0,0,0,0.5);
     /*border-radius: 5px 5px 5px 5px;*/
