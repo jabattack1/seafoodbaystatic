@@ -416,7 +416,7 @@ body {
 }
 
 #sp_link { 
-   background-color:rgba(0,0,0,0.5);
+   /*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
     border: none;
     color: #FFFFFF;
@@ -440,7 +440,7 @@ body {
 }
 
 #veg_link { 
-    background-color:rgba(0,0,0,0.5);
+    /*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
     border: none;
     color: #FFFFFF;
@@ -771,6 +771,7 @@ button {
 	height:100%;
 	margin:0px;
 	padding:0px;
+	margin-top: 187px;
 
 
 }
