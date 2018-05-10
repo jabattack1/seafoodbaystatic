@@ -27,7 +27,7 @@ body {
 }
 
 #cross_banner {
-	max-width:1300px;
+	width:1300px;
 	height: 186px;
 	background-color: rgba(255, 255, 255, 0.5);
 	position: absolute;
