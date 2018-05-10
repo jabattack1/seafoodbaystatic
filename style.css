@@ -521,9 +521,8 @@ body {
 	font-family: 'Arvo', Georgia, Times, serif;
 	font-size: .8em;
 	/*color: #FFFFFF;*/
-	margin-left:0;
-	margin-top: 0;
-	padding-top: 187px;
+	margin-left: 140px;
+	margin-top: 187px;
 	position: absolute;
 	/*background-color: #000000;*/
 	width: 1125px;
@@ -533,15 +532,6 @@ body {
     /*background-color:rgba(0,0,0,0.5);*/
     /*border-radius: 5px 5px 5px 5px;*/
     
-}
-
-::-webkit-scrollbar {
-    width: 0px;  /* remove scrollbar space */
-    background: transparent;  /* optional: just make scrollbar invisible */
-}
-/* optional: show position indicator in red */
-::-webkit-scrollbar-thumb {
-    background: #FF0000;
 }
 
 
