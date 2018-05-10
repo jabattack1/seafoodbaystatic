@@ -510,6 +510,7 @@ body {
 	width: 1125px;
 	height: 100%;
 	overflow-x:hidden;
+	z-index:-1;
 	/*border-style: solid;*/
     /*background-color:rgba(0,0,0,0.5);*/
     /*border-radius: 5px 5px 5px 5px;*/
@@ -528,7 +529,6 @@ body {
 	width: 1125px;
 	height: 100%;
 	overflow-x:hidden;
-	z-index:-1;
 	/*border-style: solid;*/
     /*background-color:rgba(0,0,0,0.5);*/
     /*border-radius: 5px 5px 5px 5px;*/
