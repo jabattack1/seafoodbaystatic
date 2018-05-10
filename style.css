@@ -950,7 +950,7 @@ width: 150px;
    	width: 1160px;
 	height: 460px;
     position: absolute;
-    margin-top: 187px;
+    margin-top: 0;
 	/*margin-left:252px;*/
     color: transparent;
     opacity: 0;
