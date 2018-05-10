@@ -11,7 +11,7 @@ body {
    	position: relative;
    	background-size: 1265px;
    	background-position: center;
-   	overflow:hidden;
+   	/*overflow:hidden;*/
 }
 
 .player {
