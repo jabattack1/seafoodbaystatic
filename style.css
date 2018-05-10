@@ -3,13 +3,13 @@ body {
 	/*background-size: 1280px 760px;*/
 	margin: auto;
 	width:1265px;
-    height: 500px;
+    height: 100vh;
     /*padding: 0;*/
    	background: url() no-repeat;
    	background-color:235789;
    	background-image: url("https://i.imgur.com/W4nETuZ.gif");
    	position: relative;
-   	background-size: 1280px 100vh;
+   	background-size: 1265px;
    	background-position: center;
 }
 
