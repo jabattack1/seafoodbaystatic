@@ -528,7 +528,7 @@ body {
 	margin-top: 187px;
 	position: absolute;
 	/*background-color: #000000;*/
-	width: 1120px;
+	width: 1125px;
 	height: 100%;
 	overflow-x:hidden;
 	/*border-style: solid;*/
@@ -969,7 +969,7 @@ width: 150px;
 
 
 #crossfade > img { 
-   	width: 1175px;
+   	width: 1165px;
 	height: 460px;
     position: absolute;
     margin-top: 0;
