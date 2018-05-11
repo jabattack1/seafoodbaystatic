@@ -717,6 +717,8 @@ body {
 
 #talkBack {
 	width: 1125px;
+	padding-left:10px;
+	padding-right:10px;
 	/*margin:0;*/
 	/*margin:auto;*/
 	/*background-color:black;*/
