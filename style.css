@@ -756,7 +756,7 @@ body {
 
 #hours { 
 	width: 250px;
-	margin-left: 30px;
+	margin-left: 10px;
 	margin-top: 240px;
 	position: absolute;
 	font-size: 1.7em;
@@ -765,10 +765,10 @@ body {
 
 #address { 
 	width: 250px;
-	margin-left: 30px;
+	margin-left: 10px;
 	margin-top: 30px;
 	position: absolute;
-	font-size: 1.2em;
+	font-size: 1.7em;
 }
 
 #phone { 
