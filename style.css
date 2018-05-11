@@ -688,10 +688,10 @@ body {
 #cat{
 	width: 1115px;
 	margin:auto;
-	margin-top:50px;
+	/*margin-top:50px;*/
 	/*background-color:black;*/
 	/*margin-top: 800px;*/
-	position: absolute;
+	position: relative;
 	font-size: .7em;
 	color:white;
 	text-align: center;
