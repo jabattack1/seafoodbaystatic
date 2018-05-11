@@ -851,9 +851,9 @@ button {
 
 }
 
-#tableBody{
+/*#tableBody{
 	margin-left:100px;
-}
+}*/
 
 .menu tr:last-child td:last-child {
 
@@ -883,7 +883,7 @@ button {
 	
 	/*background-color:rgba(0,0,0,0.5);*/
 	
-	text-align:left;
+	/*text-align:left;*/
 	padding:6px;
 	font-size:12px;
 	font-family:'Arvo', Georgia, Times, serif;
