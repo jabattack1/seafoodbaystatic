@@ -392,7 +392,8 @@ body {
 #app_link { 
     /*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
-    border: none;
+    /*border: none;*/
+    border-left:solid;
     color: #FFFFFF;
     width: 120px;
     height: 12px;
