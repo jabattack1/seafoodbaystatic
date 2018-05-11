@@ -393,8 +393,8 @@ body {
     /*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
     /*border: none;*/
-    border-left:solid;
-    border-right:solid;
+/*    border-left:solid;
+    border-right:solid;*/
     text-align:center;
     color: #FFFFFF;
     width: 90px;
