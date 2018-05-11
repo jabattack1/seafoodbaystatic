@@ -685,6 +685,17 @@ body {
 	text-align: center;
 }
 
+#cat{
+	width: 1115px;
+	margin:auto;
+	/*background-color:black;*/
+	/*margin-top: 800px;*/
+	position: absolute;
+	font-size: .7em;
+	color:white;
+	text-align: center;
+}
+
 #hours { 
 	width: 250px;
 	margin-left: 30px;
