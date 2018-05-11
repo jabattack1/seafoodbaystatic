@@ -850,9 +850,11 @@ button {
 
 
 }
-.menu tbody{
+
+#tableBody{
 	margin-left:100px;
 }
+
 .menu tr:last-child td:last-child {
 
 	-moz-border-radius-bottomright:0px;
