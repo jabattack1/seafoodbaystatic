@@ -850,7 +850,7 @@ button {
 
 
 }
-.menu tr{
+.menu tbody{
 	margin-left:100px;
 }
 .menu tr:last-child td:last-child {
