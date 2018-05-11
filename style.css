@@ -883,8 +883,8 @@ button {
 	
 	/*background-color:rgba(0,0,0,0.5);*/
 	
-	/*text-align:left;*/
-	padding:6px;
+	text-align:left;
+	padding:100px;
 	font-size:12px;
 	font-family:'Arvo', Georgia, Times, serif;
 	font-weight:normal;
