@@ -884,8 +884,9 @@ button {
 	/*background-color:rgba(0,0,0,0.5);*/
 	
 	/*text-align:left;*/
-	margin-left:100px;
-	padding:0px;
+	m/*argin-left:100px;*/
+	padding-left:100px;
+	padding:6px;
 	font-size:12px;
 	font-family:'Arvo', Georgia, Times, serif;
 	font-weight:normal;
