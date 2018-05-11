@@ -861,7 +861,7 @@ button {
 .menu tr:nth-child(even){ background-color:rgba(0,0,0,0.5); }.menu td{
 	vertical-align:middle;
 	
-	background-color:rgba(0,0,0,0.5);
+	/*background-color:rgba(0,0,0,0.5);*/
 	
 	text-align:left;
 	padding:6px;
@@ -877,7 +877,7 @@ button {
 	
 }
 .menu tr td{
-	background-color:rgba(0,0,0,0.2);
+	/*background-color:rgba(0,0,0,0.2);*/
 	
 	/*border:0px solid #ffffff;*/
 	text-align:left;
