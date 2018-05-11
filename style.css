@@ -875,7 +875,7 @@ button {
 .menu tr:nth-child(odd){ }
 .menu tr:nth-child(even){ }.menu td{
 	vertical-align:middle;
-	
+	margin-left:400px;
 	/*background-color:rgba(0,0,0,0.5);*/
 	
 	text-align:left;
@@ -893,7 +893,6 @@ button {
 }
 .menu tr td{
 	/*background-color:rgba(0,0,0,0.2);*/
-	margin-left:400px;
 	/*border:0px solid #ffffff;*/
 	text-align:left;
 	font-size:13px;
