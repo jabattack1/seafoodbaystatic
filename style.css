@@ -857,8 +857,8 @@ button {
 }.menu tr:hover td{
 	
 }
-.menu tr:nth-child(odd){ background-color:rgba(0,0,0,0.5); }
-.menu tr:nth-child(even){ background-color:rgba(0,0,0,0.5); }.menu td{
+.menu tr:nth-child(odd){ }
+.menu tr:nth-child(even){ }.menu td{
 	vertical-align:middle;
 	
 	/*background-color:rgba(0,0,0,0.5);*/
@@ -893,7 +893,7 @@ button {
 
 	
 
-	background-color:rgba(0,0,0,0.5);
+	/*background-color:rgba(0,0,0,0.5);*/
 }
 .menu tr:first-child td:first-child{
 
