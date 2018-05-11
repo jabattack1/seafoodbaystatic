@@ -893,10 +893,9 @@ button {
 }
 .menu tr td{
 	/*background-color:rgba(0,0,0,0.2);*/
-	
+	margin-left:100px;
 	/*border:0px solid #ffffff;*/
 	text-align:left;
-	
 	font-size:13px;
 	font-family:'Arvo', Georgia, Times, serif;
 	/*font-weight:bold;*/
