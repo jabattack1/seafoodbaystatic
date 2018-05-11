@@ -394,6 +394,7 @@ body {
     position: absolute;
     /*border: none;*/
     border-left:solid;
+    border-right:solid;
     color: #FFFFFF;
     width: 120px;
     height: 12px;
