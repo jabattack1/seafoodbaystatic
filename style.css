@@ -850,6 +850,9 @@ button {
 
 
 }
+.menu tr{
+	margin-left:100px;
+}
 .menu tr:last-child td:last-child {
 
 	-moz-border-radius-bottomright:0px;
@@ -875,7 +878,7 @@ button {
 .menu tr:nth-child(odd){ }
 .menu tr:nth-child(even){ }.menu td{
 	vertical-align:middle;
-	margin-left:400px;
+	
 	/*background-color:rgba(0,0,0,0.5);*/
 	
 	text-align:left;
