@@ -677,6 +677,7 @@ body {
 #talk {
 	width: 900px;
 	margin:auto;
+	background-color:black;
 	/*margin-top: 800px;*/
 	position: absolute;
 	font-size: .7em;
