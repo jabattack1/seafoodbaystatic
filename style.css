@@ -676,7 +676,8 @@ body {
 
 #talk {
 	width: 1115px;
-	margin:auto;
+	margin:0;
+	/*margin:auto;*/
 	/*background-color:black;*/
 	/*margin-top: 800px;*/
 	position: absolute;
