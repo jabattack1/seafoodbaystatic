@@ -678,7 +678,7 @@ body {
 	width: 890px;
 	/*margin:0;*/
 	/*margin:auto;*/
-	background-color:black;
+	/*background-color:black;*/
 	/*margin-top: 800px;*/
 	position: absolute;
 	font-size: .7em;
@@ -687,15 +687,15 @@ body {
 }
 
 #cat{
-	width: 1115px;
-	/*margin:auto;*/
-	margin-top:20px;
+	width: 890px;
+	margin:auto;
+	margin-top:40px;
 	/*background-color:black;*/
 	/*margin-top: 800px;*/
 	position: relative;
 	font-size: 1.4em;
 	color:white;
-	/*text-align: center;*/
+	text-align: center;
 }
 
 #hours { 
