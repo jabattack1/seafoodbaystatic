@@ -819,7 +819,9 @@ button {
 
 
 .menu {
-	margin:0px;padding:0px;
+	/*margin:0px;*/
+	margin-left:100px;
+	padding:0px;
 	width:100%;
 	
 	
@@ -885,7 +887,7 @@ button {
 	
 	/*text-align:left;*/
 	m/*argin-left:100px;*/
-	padding-left:100px;
+	/*padding-left:100px;*/
 	padding:6px;
 	font-size:12px;
 	font-family:'Arvo', Georgia, Times, serif;
