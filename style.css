@@ -715,6 +715,18 @@ body {
 	/*text-align: center;*/
 }
 
+#talk {
+	width: 890px;
+	/*margin:0;*/
+	/*margin:auto;*/
+	/*background-color:black;*/
+	/*margin-top: 800px;*/
+	position: absolute;
+	font-size: 1em;
+	color:white;
+	/*text-align: center;*/
+}
+
 #cat{
 	width: 890px;
 	margin:auto;
