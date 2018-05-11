@@ -348,44 +348,43 @@ body {
 }
 
 #app_link:hover { 
-    color: #FF8300;
+    color: #E0E0E0;
 }
 
 #fp_link:hover { 
-    color: #FF8300;
+    color: #E0E0E0;
 }
 
 #br_link:hover { 
-    color: #FF8300;
+    color: #E0E0E0;
 }
 
 #cd_link:hover { 
-    color: #FF8300;
+    color: #E0E0E0;
 }
 
 #sp_link:hover { 
-    color: #FF8300;
+    color: #E0E0E0;
 }
 
 #ls_link:hover { 
-    color: #FF8300;
+    color: #E0E0E0;
 }
 
 #veg_link:hover { 
-    color: #FF8300;
+    color: #E0E0E0;
 }
 
 #sides_link:hover { 
-    color: #FF8300;
+    color: #E0E0E0;
 }
 
 #alc_link:hover { 
-    color: #FF8300;
+    color: #E0E0E0;
 }
 
 #ff_link:hover { 
-    color: #FF8300;
-
+    color: #E0E0E0;
 }
 
 
@@ -400,6 +399,7 @@ body {
     margin-top: 0px;
     margin-left: 0px;
     font-size: 9px;
+    text-decoration: none;
 
 }
 #fp_link {
@@ -412,6 +412,7 @@ body {
     margin-top: 0px;
     margin-left: 62px;
     font-size: 9px;
+    text-decoration: none;
 }
 
 #br_link { 
@@ -424,6 +425,7 @@ body {
     margin-top: 0px;
     margin-left: 139px;
     font-size: 9px;
+    text-decoration: none;
 }
 
 #cd_link { 
@@ -436,6 +438,7 @@ body {
     margin-top: 0px;
     margin-left: 224px;
     font-size: 9px;
+    text-decoration: none;
 }
 
 #sp_link { 
@@ -448,6 +451,7 @@ body {
     margin-top: 0px;
     margin-left: 299px;
     font-size: 9px;
+    text-decoration: none;
 }
 
 #ls_link { 
@@ -460,6 +464,7 @@ body {
     margin-top: 0px;
     margin-left: 356px;
     font-size: 9px;
+    text-decoration: none;
 }
 
 #veg_link { 
@@ -472,6 +477,7 @@ body {
     margin-top: 0px;
     margin-left: 437px;
     font-size: 9px;
+    text-decoration: none;
 }
 
 #sides_link { 
@@ -484,6 +490,7 @@ body {
     margin-top: 0px;
     margin-left: 499px;
     font-size: 9px;
+    text-decoration: none;
 }
 
 #alc_link { 
@@ -497,6 +504,7 @@ body {
     margin-top: 0px;
     margin-left: 551px;
     font-size: 9px;
+    text-decoration: none;
 }
 
 #ff_link { 
@@ -509,6 +517,7 @@ body {
     margin-top: 0px;
     margin-left: 615px;
     font-size: 9px;
+    text-decoration: none;
 }
 
 
