@@ -407,8 +407,8 @@ body {
 #fp_link {
 	/*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
-    border-left:solid;
-    border-right:solid;
+ /*   border-left:solid;
+    border-right:solid;*/
     text-align:center;
     color: #FFFFFF;
     width: 90px;
@@ -422,8 +422,8 @@ body {
 #br_link { 
     /*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
-    border-left:solid;
-    border-right:solid;
+ /*   border-left:solid;
+    border-right:solid;*/
     text-align:center;
     color: #FFFFFF;
     width: 90px;
@@ -437,8 +437,8 @@ body {
 #cd_link { 
     /*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
-    border-left:solid;
-    border-right:solid;
+ /*   border-left:solid;
+    border-right:solid;*/
     text-align:center;
     color: #FFFFFF;
     width: 90px;
@@ -452,8 +452,8 @@ body {
 #sp_link { 
    /*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
-    border-left:solid;
-    border-right:solid;
+ /*   border-left:solid;
+    border-right:solid;*/
     text-align:center;
     color: #FFFFFF;
     width: 90px;
@@ -467,8 +467,8 @@ body {
 #ls_link { 
    /*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
-    border-left:solid;
-    border-right:solid;
+ /*   border-left:solid;
+    border-right:solid;*/
     text-align:center;
     color: #FFFFFF;
     width: 90px;
@@ -482,8 +482,8 @@ body {
 #veg_link { 
     /*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
-    border-left:solid;
-    border-right:solid;
+ /*   border-left:solid;
+    border-right:solid;*/
     text-align:center;
     color: #FFFFFF;
     width: 90px;
@@ -497,8 +497,8 @@ body {
 #sides_link { 
     /*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
-    border-left:solid;
-    border-right:solid;
+ /*   border-left:solid;
+    border-right:solid;*/
     text-align:center;
     color: #FFFFFF;
     width: 90px;
@@ -514,8 +514,8 @@ body {
     /*margin-left: 552px;*/
     position: absolute;
     color: #FFFFFF;
-    border-left:solid;
-    border-right:solid;
+ /*   border-left:solid;
+    border-right:solid;*/
     text-align:center;
     width: 90px;
     height: 12px;
@@ -528,8 +528,8 @@ body {
 #ff_link { 
     /*background-color:rgba(0,0,0,0.5);*/
     position: absolute;
-    border-left:solid;
-    border-right:solid;
+ /*   border-left:solid;
+    border-right:solid;*/
     text-align:center;
     color: #FFFFFF;
     width: 90px;
