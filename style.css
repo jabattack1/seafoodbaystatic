@@ -1016,6 +1016,7 @@ width: 150px;
     color: transparent;
     opacity: 0;
     z-index: 0;
+    overflow-y:hidden;
     -webkit-backface-visibility: hidden;
     -webkit-animation: imageAnimation 40s linear infinite 0s;
     -moz-animation: imageAnimation 40s linear infinite 0s;
