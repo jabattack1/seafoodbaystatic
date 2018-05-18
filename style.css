@@ -806,8 +806,8 @@ body {
 	color:white;
 }
 
-.map{
-	margin-left: 624px;
+#map{
+	margin-left: 324px;
 	margin-top: 30px;
 	width: 785px;
 	height: 395px;
