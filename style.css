@@ -1,22 +1,19 @@
 
 body {
-	/*background-size: 1280px 760px;*/
-	/*margin: auto;*/
-	/*width:1265px;*/
-    /*height: 100vh;*/
-    /*padding: 0;*/
-    background-image: url("https://i.imgur.com/W4nETuZ.gif");
    	background-size: 1260px 650px;
-   	background-repeat: no-repeat;
-   	background-position: center;
    	background-color:235789;
-   	position: fixed;
+	height: 100%;*/
+	z-index:0;
+   	background:url("https://i.imgur.com/W4nETuZ.gif") repeat-y center top;
+  	background-repeat: no-repeat;
+	position: fixed;
 	left: 0px;
 	top: 0px;
 	width: 100%;
 	height: 100%;
-	z-index:0;
-   	/*overflow:hidden;*/
+  	/*margin: 0 auto;*/
+  	position:fixed;
+  	/*background-color:red;*/
 }
 
 #page-wrap {
