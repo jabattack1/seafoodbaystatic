@@ -24,6 +24,7 @@ body {
   /*background-attachment:scroll;*/
   /*overflow-x: hidden;*/
   /*position: fixed;*/
+  background-position: center top;
   	margin: 50% 50%;
   	width:1260px;
   	height: 720px;
