@@ -602,7 +602,7 @@ body {
 	position: absolute;
 	/*background-color: #000000;*/
 	width: 1125px;
-	height: 500px;
+	height: 400px;
 	overflow-x:hidden;
 	/*border-style: solid;*/
     /*background-color:rgba(0,0,0,0.5);*/
@@ -620,7 +620,7 @@ body {
 	position: absolute;
 	/*background-color: #000000;*/
 	width: 1120px;
-	height: 500px;
+	height: 400px;
 	overflow:hidden;
 	z-index:99;
 	/*border-style: solid;*/
