@@ -6,12 +6,7 @@ body {
     /*height: 100vh;*/
     /*padding: 0;*/
    	background-color:235789;
-   	background-image: url("https://i.imgur.com/W4nETuZ.gif");
-   	background-repeat: no-repeat;
-   	/*position: relative;*/
-   	background-size: 1265px 720px;
-   	background-position: center;
-   	/*position: fixed;*/
+   	position: fixed;
 	left: 0px;
 	top: 0px;
 	width: 100%;
@@ -25,6 +20,10 @@ body {
   /*background-attachment:scroll;*/
   /*overflow-x: hidden;*/
   /*position: fixed;*/
+    background-image: url("https://i.imgur.com/W4nETuZ.gif");
+   	background-size: 1260px 720px;
+   	background-repeat: no-repeat;
+   	background-position: center;
   	margin: 50% 50%;
   	width:1260px;
   	height: 720px;
