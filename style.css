@@ -19,19 +19,13 @@ body {
 }
 
 #page-wrap {
-  /*font-family: Georgia, serif;*/
-  /*background-position: center;*/
-  /*background-attachment:scroll;*/
-  /*overflow-x: hidden;*/
-  /*position: fixed;*/
-  background-position: center top;
-  	margin: 50% 50%;
+  	/*margin: 50% 50%;*/
   	width:1260px;
   	height: 720px;
   	position:relative;
   	z-index:1;
      /*width: 900px;*/
-     /*margin: 0 auto;*/
+     margin: 0 auto;
 }
 
 .player {
