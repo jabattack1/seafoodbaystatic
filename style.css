@@ -232,7 +232,7 @@ body {
 
 #copyright {
 	font-family: 'Arvo', Georgia, Times, serif;
-	margin-top: 0px;
+	margin-top: -1px;
 	font-size: 9px;
 	/*width:200px;*/
 	/*padding: 0px;*/
@@ -244,8 +244,8 @@ body {
 	font-family: 'Arvo', Georgia, Times, serif;
 	font-size:9px;
 	/*width:170px;*/
-	margin-top: 0px;
-	margin-left: 1105px;
+	margin-top: -1px;
+	margin-left: 1092px;
 	/*padding: 5px;*/
 	position: absolute;
 	color:white;
