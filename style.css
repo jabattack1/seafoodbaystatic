@@ -5,6 +5,10 @@ body {
 	/*width:1265px;*/
     /*height: 100vh;*/
     /*padding: 0;*/
+    background-image: url("https://i.imgur.com/W4nETuZ.gif");
+   	background-size: 1260px 720px;
+   	background-repeat: no-repeat;
+   	background-position: center;
    	background-color:235789;
    	position: fixed;
 	left: 0px;
@@ -21,10 +25,7 @@ body {
   /*background-attachment:scroll;*/
   /*overflow-x: hidden;*/
   /*position: fixed;*/
-    background-image: url("https://i.imgur.com/W4nETuZ.gif");
-   	background-size: 1260px 720px;
-   	background-repeat: no-repeat;
-   	background-position: center;
+
   	margin: 50% 50%;
   	width:1260px;
   	height: 720px;
