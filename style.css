@@ -159,6 +159,17 @@ body {
 #logo {
 	font-family: 'Corben', Georgia, Times, serif;
 	width:250px;
+	/*position:absolute;*/
+}
+
+#boast {
+	font-family: 'Arvo', Georgia, Times, serif;
+	position:absolute;
+	color:black;
+	width:200px;
+	font-size: .7em;
+	margin-top:-21px;
+	margin-left:23px;
 }
 
 #web {
