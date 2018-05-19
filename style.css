@@ -10,7 +10,7 @@ body {
    	background-size: 1260px 650px;
    	background-repeat: no-repeat;
    	background-position: center top;
-   	background-color:235789;
+   	background-color:#191616;
    	position: fixed;
 	left: 0px;
 	top: 0px;
@@ -229,7 +229,7 @@ body {
 
 #copyright {
 	font-family: 'Arvo', Georgia, Times, serif;
-	margin-top: -1px;
+	margin-top: 7px;
 	font-size: 9px;
 	/*width:200px;*/
 	/*padding: 0px;*/
@@ -241,7 +241,7 @@ body {
 	font-family: 'Arvo', Georgia, Times, serif;
 	font-size:9px;
 	/*width:170px;*/
-	margin-top: -1px;
+	margin-top: 7px;
 	margin-left: 1095px;
 	/*padding: 5px;*/
 	position: absolute;
