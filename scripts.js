@@ -1,5 +1,13 @@
 console.log('connected');
+
+$(window).load(function(){
+    setTimeout(function() {
+      $('.loader').fadeOut();
+    }, 3000);
+});
+
 window.onload = function(){
+
 
 var $app_edit_buttons = $('.edit');
 // for(var i = 0; i < poorSouls.length; i++) {
