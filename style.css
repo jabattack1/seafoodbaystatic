@@ -1,6 +1,16 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+
 
 body {
-  background:url(https://i.imgur.com/W4nETuZ.gif) center top;
+  background:url(https://i.imgur.com/W4nETuZ.gif);
   background-size: 1265px 645px;
   background-color:235789;
   background-repeat:no-repeat;
@@ -9,6 +19,8 @@ body {
   margin: 0 auto;
   position:relative;
   overflow:auto;
+  /*display: table-cell;*/
+  vertical-align: middle;
 }
 
 #page-wrap {
